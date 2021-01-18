@@ -1,6 +1,8 @@
 # js-funcional
 Fundamentos de Javascript Funcional by Cod3r
 
+--- 
+
 ### Requisitos
 
 1. NodeJS versão 14+
@@ -10,3 +12,4 @@ Fundamentos de Javascript Funcional by Cod3r
 Ctrl + alt + n (run code)
 Crtl + alt + m (stop the running code)
 ```
+
