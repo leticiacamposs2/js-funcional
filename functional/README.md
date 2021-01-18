@@ -33,3 +33,5 @@ Este é um exemplo que o resultado do array será menor que o tamanho original
 # Reduce Function
 
 ![reduce-function-1](/assets/reduce-function-1.png)
+
+![reduce-function-2](/assets/reduce-function-2.png)
